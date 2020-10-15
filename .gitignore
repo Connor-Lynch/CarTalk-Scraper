@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/CarTalk.Scraper/.vs/CarTalk.Scraper
+/CarTalk.Scraper/CarTalk.Scraper/bin
+/CarTalk.Scraper/CarTalk.Scraper/obj
+/CarTalk.Scraper/CarTalk.Scraper.UnitTests/bin
+/CarTalk.Scraper/CarTalk.Scraper.UnitTests/obj
